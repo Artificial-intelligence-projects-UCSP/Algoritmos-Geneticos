@@ -6,8 +6,7 @@
 #include <time.h>
 #include <stdio.h>
 
-#define niteraciones 1000
-#define npoblacion 500
+
 #define lenx 8
 #define leny 7
 #define ul unsigned long
